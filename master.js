@@ -1,1 +1,1 @@
-'thrid: change master file';
+console.log('master');
