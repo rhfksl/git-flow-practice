@@ -1,1 +1,2 @@
-'create rebase file before rebasing';
+console.log('create rebase file');
+console.log('rebase1');
