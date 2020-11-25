@@ -1,1 +1,1 @@
-'create rebase file before rebasing';
+console.log('create rebase file');
